@@ -6,3 +6,4 @@ archivo de texto para su posterior revisión.
 ## Estructura del Proyecto
 El proyecto consta de los siguientes archivos:
 *.DS_Store*: Archivo de sistema que se genera automáticamente en macOS (puede ser ignorado o eliminado si no es necesario).
+*README.md*: Documento con la descripción del proyecto y detalles de uso.
