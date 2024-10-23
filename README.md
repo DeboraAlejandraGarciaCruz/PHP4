@@ -4,3 +4,4 @@ El sistema permite a los usuarios realizar pedidos, visualizar los resultados y 
 archivo de texto para su posterior revisión.
 
 ## Estructura del Proyecto
+El proyecto consta de los siguientes archivos:
