@@ -17,3 +17,6 @@ El proyecto consta de los siguientes archivos:
 *vieworders.php*: Muestra el detalle de los pedidos realizados y almacenados en el archivo de texto para revisión.
 
 ## Funcionalidades
+
+- *Realizar Pedido*: Los clientes pueden seleccionar productos como llantas, botellas de aceite y bujías, y hacer un pedido
+   utilizando el formulario en orderform.html.
