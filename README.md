@@ -9,4 +9,5 @@ El proyecto consta de los siguientes archivos:
 *.DS_Store*: Archivo de sistema que se genera automáticamente en macOS (puede ser ignorado o eliminado si no es necesario).
 
 *README.md*: Documento con la descripción del proyecto y detalles de uso.
+
 *orderform.html*: Formulario que permite a los usuarios ingresar sus pedidos de productos.
