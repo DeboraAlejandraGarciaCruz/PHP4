@@ -23,3 +23,6 @@ El proyecto consta de los siguientes archivos:
 
   - *Procesamiento de Pedido*: El archivo processorder.php maneja la lógica del pedido, calcula los totales y genera una
    respuesta con el resumen del pedido.
+
+- *Almacenamiento de Pedido*: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
+  posterior revisión.
