@@ -13,3 +13,5 @@ El proyecto consta de los siguientes archivos:
 *orderform.html*: Formulario que permite a los usuarios ingresar sus pedidos de productos.
 
 *processorder.php*: Archivo PHP que procesa los pedidos, calcula el total y muestra un resumen de la orden realizada.
+
+*vieworders.php*: Muestra el detalle de los pedidos realizados y almacenados en el archivo de texto para revisión.
