@@ -31,3 +31,5 @@ El proyecto consta de los siguientes archivos:
 
   ## Cómo Usar el Sistema
 Descarga o clona el repositorio* en tu servidor local.
+
+Asegúrate de tener configurado un entorno de servidor web con soporte para PHP (como XAMPP o WAMP).
