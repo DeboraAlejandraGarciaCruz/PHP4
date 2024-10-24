@@ -30,3 +30,4 @@ El proyecto consta de los siguientes archivos:
   posterior revisión.
 
   ## Cómo Usar el Sistema
+Descarga o clona el repositorio* en tu servidor local.
