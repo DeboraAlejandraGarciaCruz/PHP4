@@ -11,3 +11,5 @@ El proyecto consta de los siguientes archivos:
 *README.md*: Documento con la descripción del proyecto y detalles de uso.
 
 *orderform.html*: Formulario que permite a los usuarios ingresar sus pedidos de productos.
+
+*processorder.php*: Archivo PHP que procesa los pedidos, calcula el total y muestra un resumen de la orden realizada.
