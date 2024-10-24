@@ -28,3 +28,5 @@ El proyecto consta de los siguientes archivos:
 
 - *Almacenamiento de Pedido*: Los pedidos realizados se almacenan en un archivo de texto ubicado en el servidor para su
   posterior revisión.
+
+  ## Cómo Usar el Sistema
