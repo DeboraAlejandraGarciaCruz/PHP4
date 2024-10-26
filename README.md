@@ -37,3 +37,5 @@ Asegúrate de tener configurado un entorno de servidor web con soporte para PHP 
 Coloca los archivos del proyecto en la carpeta del servidor (usualmente htdocs para XAMPP).
 
 Navega a orderform.html en tu navegador para realizar un pedido.
+
+Completa el formulario con la cantidad de productos y la dirección de envío.
