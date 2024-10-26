@@ -39,3 +39,5 @@ Coloca los archivos del proyecto en la carpeta del servidor (usualmente htdocs p
 Navega a orderform.html en tu navegador para realizar un pedido.
 
 Completa el formulario con la cantidad de productos y la dirección de envío.
+
+Al enviar el formulario, el archivo processorder.php procesará el pedido y lo guardará en un archivo de texto.
