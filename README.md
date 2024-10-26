@@ -44,3 +44,5 @@ Al enviar el formulario, el archivo processorder.php procesará el pedido y lo g
 
  Para ver todos los pedidos realizados, abre vieworders.php en el navegador.
 
+ ## Requisitos
+
