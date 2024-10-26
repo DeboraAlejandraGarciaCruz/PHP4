@@ -35,3 +35,5 @@ Descarga o clona el repositorio* en tu servidor local.
 Asegúrate de tener configurado un entorno de servidor web con soporte para PHP (como XAMPP o WAMP).
 
 Coloca los archivos del proyecto en la carpeta del servidor (usualmente htdocs para XAMPP).
+
+Navega a orderform.html en tu navegador para realizar un pedido.
