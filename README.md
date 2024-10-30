@@ -48,4 +48,3 @@ Al enviar el formulario, el archivo processorder.php procesará el pedido y lo g
 
  *PHP*: El servidor debe tener PHP instalado y configurado.
  
-h
