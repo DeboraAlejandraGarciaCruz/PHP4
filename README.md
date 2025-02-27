@@ -47,4 +47,4 @@ Al enviar el formulario, el archivo processorder.php procesará el pedido y lo g
  ## Requisitos
 
  *PHP*: El servidor debe tener PHP instalado y configurado.
-Nxn
+Nx
